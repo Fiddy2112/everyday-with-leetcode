@@ -1,7 +1,7 @@
 // resolution
-// Create an empty array to store the results.
-// Iterate through each element in nums:
-// Use Math.pow(num, 2) or num * num to square.
+// 1. Create an empty array to store the results.
+// 2. Iterate through each element in nums:
+// 3. Use Math.pow(num, 2) or num * num to square.
 // push into the result array.
 
 function sortedSquares(nums: number[]): number[] {

@@ -2,12 +2,6 @@
 
 Track daily practice solving LeetCode problems with TypeScript. This repo keeps solutions, notes, and quick run instructions.
 
-### Repository structure
-
-- [Exercise1](./exercise/day1.html): solution for [day1.ts](./day1.ts)
-- [Exercise2](./exercise/day2.html): solution for [day2.ts](./day2.ts)
-- `Readme.md`: this guide and daily log
-
 ### Conventions
 
 - One file per day: `dayN.ts`
@@ -19,3 +13,9 @@ Track daily practice solving LeetCode problems with TypeScript. This repo keeps 
 
 - Day 1: [day1.ts](./day1.ts) — Problem: Max Consecutive Ones
 - Day 2: [day1.ts](./day2.ts) — Problem: Find Numbers with Even Number of Digits
+- Day 2: [day1.ts](./day3.ts) — Problem: Squares of a Sorted Array
+- Day 2: [day1.ts](./day4.ts) — Problem: Duplicate Zeros
+- Day 2: [day1.ts](./day5.ts) — Problem: Merge Sorted Array
+- Day 2: [day1.ts](./day6.ts) — Problem: Remove Element
+- Day 2: [day1.ts](./day7.ts) — Problem: Remove Duplicates from Sorted Array
+- Day 2: [day1.ts](./day8.ts) — Problem: Check If N and Its Double Exist
